@@ -2,6 +2,7 @@
 
 ### Objective  :
 This case requires to develop a customer segmentation to give recommendations like saving plans, loans, wealth management, etc. on target customer groups.
+
 <img align="center" src="https://github.com/user-attachments/assets/14e3d303-8915-45a6-bdc7-e1e1ad407eaa" alt="image">
 
 ### Data Description : 
