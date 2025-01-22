@@ -2,7 +2,7 @@
 
 ### Objective  :
 This case requires to develop a customer segmentation to give recommendations like saving plans, loans, wealth management, etc. on target customer groups.
-<img align="center" src="https://github.com/your-username/your-repo/blob/main/images/Market_segmentation.webp" alt="image">
+<img align="center" src="https://github.com/user-attachments/assets/14e3d303-8915-45a6-bdc7-e1e1ad407eaa" alt="image">
 ### Data Description : 
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables.
 ### Data :  
